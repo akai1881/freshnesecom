@@ -1,0 +1,166 @@
+{
+  "posts": [
+    {
+      "title": "Мясо говядина",
+      "category": "meat",
+      "catalog": "meat-bird",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic exercitationem dicta enim id quasi, necessitatibus aspernatur non et dignissimos unde obcaecati officiis voluptatibus consequatur, ipsam ullam. Modi atque id necessitatibus natus, magnam molestiae, suscipit consequatur alias pariatur corrupti eligendi minima ex harum placeat nemo. Ratione, dicta quidem, ut hic neque culpa sed, aut et temporibus ipsam consequatur explicabo excepturi nihil amet eius consectetur voluptatem autem unde non. Illo, quaerat voluptas?",
+      "image": "https://home-market.com/upload/iblock/cb2/cb2ff3508926543d131063c21268be02.jpg",
+      "price": 460,
+      "id": 1
+    },
+    {
+      "title": "Фарш говяжий",
+      "category": "meat",
+      "catalog": "meat-bird",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic exercitationem dicta enim id quasi, necessitatibus aspernatur non et dignissimos unde obcaecati officiis voluptatibus consequatur, ipsam ullam. Modi atque id necessitatibus natus, magnam molestiae, suscipit consequatur alias pariatur corrupti eligendi minima ex harum placeat nemo. Ratione, dicta quidem, ut hic neque culpa sed, aut et temporibus ipsam consequatur explicabo excepturi nihil amet eius consectetur voluptatem autem unde non. Illo, quaerat voluptas?",
+      "image": "https://home-market.com/upload/iblock/48d/48d74ffeb2725cd186c57f32b8a0628f.jpg",
+      "price": 489,
+      "id": 2
+    },
+    {
+      "title": "Мясо говядина грудина",
+      "category": "meat",
+      "catalog": "meat-bird",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic exercitationem dicta enim id quasi, necessitatibus aspernatur non et dignissimos unde obcaecati officiis voluptatibus consequatur, ipsam ullam. Modi atque id necessitatibus natus, magnam molestiae, suscipit consequatur alias pariatur corrupti eligendi minima ex harum placeat nemo. Ratione, dicta quidem, ut hic neque culpa sed, aut et temporibus ipsam consequatur explicabo excepturi nihil amet eius consectetur voluptatem autem unde non. Illo, quaerat voluptas?",
+      "image": "https://home-market.com/upload/iblock/5a4/5a4c8f8672397285c5f067aab8e1d3c2.jpg",
+      "price": 409,
+      "id": 3
+    },
+    {
+      "title": "Мясо говядина стейк",
+      "category": "meat",
+      "catalog": "meat-bird",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic exercitationem dicta enim id quasi, necessitatibus aspernatur non et dignissimos unde obcaecati officiis voluptatibus consequatur, ipsam ullam. Modi atque id necessitatibus natus, magnam molestiae, suscipit consequatur alias pariatur corrupti eligendi minima ex harum placeat nemo. Ratione, dicta quidem, ut hic neque culpa sed, aut et temporibus ipsam consequatur explicabo excepturi nihil amet eius consectetur voluptatem autem unde non. Illo, quaerat voluptas?",
+      "image": "https://home-market.com/upload/iblock/768/768f1ee65182b9f8ae2b33aba960962a.jpg",
+      "price": 459,
+      "id": 4
+    },
+    {
+      "title": "Рёбра барашка",
+      "category": "meat",
+      "catalog": "meat-bird",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic exercitationem dicta enim id quasi, necessitatibus aspernatur non et dignissimos unde obcaecati officiis voluptatibus consequatur, ipsam ullam. Modi atque id necessitatibus natus, magnam molestiae, suscipit consequatur alias pariatur corrupti eligendi minima ex harum placeat nemo. Ratione, dicta quidem, ut hic neque culpa sed, aut et temporibus ipsam consequatur explicabo excepturi nihil amet eius consectetur voluptatem autem unde non. Illo, quaerat voluptas?",
+      "image": "https://home-market.com/upload/iblock/456/456a4f1e74b9dafd096a0f08d82e7d6a.jpg",
+      "price": 429,
+      "id": 5
+    },
+    {
+      "title": "Баранина лопатка",
+      "category": "meat",
+      "catalog": "meat-bird",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic exercitationem dicta enim id quasi, necessitatibus aspernatur non et dignissimos unde obcaecati officiis voluptatibus consequatur, ipsam ullam. Modi atque id necessitatibus natus, magnam molestiae, suscipit consequatur alias pariatur corrupti eligendi minima ex harum placeat nemo. Ratione, dicta quidem, ut hic neque culpa sed, aut et temporibus ipsam consequatur explicabo excepturi nihil amet eius consectetur voluptatem autem unde non. Illo, quaerat voluptas?",
+      "image": "https://home-market.com/upload/iblock/092/092c9a801fd1f92cddd3605812724b79.jpg",
+      "price": 459,
+      "id": 6
+    },
+    {
+      "title": "Куриная грудка",
+      "category": "bird",
+      "catalog": "meat-bird",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic exercitationem dicta enim id quasi, necessitatibus aspernatur non et dignissimos unde obcaecati officiis voluptatibus consequatur, ipsam ullam. Modi atque id necessitatibus natus, magnam molestiae, suscipit consequatur alias pariatur corrupti eligendi minima ex harum placeat nemo. Ratione, dicta quidem, ut hic neque culpa sed, aut et temporibus ipsam consequatur explicabo excepturi nihil amet eius consectetur voluptatem autem unde non. Illo, quaerat voluptas?",
+      "image": "https://home-market.com/upload/iblock/21e/21e20c712593c2148cf8a3b5d6c8a50f.jpg",
+      "price": 260,
+      "id": 7
+    },
+    {
+      "title": "Куриная голень",
+      "category": "bird",
+      "catalog": "meat-bird",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic exercitationem dicta enim id quasi, necessitatibus aspernatur non et dignissimos unde obcaecati officiis voluptatibus consequatur, ipsam ullam. Modi atque id necessitatibus natus, magnam molestiae, suscipit consequatur alias pariatur corrupti eligendi minima ex harum placeat nemo. Ratione, dicta quidem, ut hic neque culpa sed, aut et temporibus ipsam consequatur explicabo excepturi nihil amet eius consectetur voluptatem autem unde non. Illo, quaerat voluptas?",
+      "image": "https://home-market.com/upload/iblock/ab7/ab72b958e1bf47ea6ca080e034cb4222.jpg",
+      "price": 280,
+      "id": 8
+    },
+    {
+      "title": "Куриные крылья",
+      "category": "bird",
+      "catalog": "meat-bird",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic exercitationem dicta enim id quasi, necessitatibus aspernatur non et dignissimos unde obcaecati officiis voluptatibus consequatur, ipsam ullam. Modi atque id necessitatibus natus, magnam molestiae, suscipit consequatur alias pariatur corrupti eligendi minima ex harum placeat nemo. Ratione, dicta quidem, ut hic neque culpa sed, aut et temporibus ipsam consequatur explicabo excepturi nihil amet eius consectetur voluptatem autem unde non. Illo, quaerat voluptas?",
+      "image": "https://home-market.com/upload/iblock/a17/a17a739fa9f0788df676b61ddef90f9e.jpg",
+      "price": 180,
+      "id": 9
+    },
+    {
+      "title": "Курица домашняя",
+      "category": "bird",
+      "catalog": "meat-bird",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic exercitationem dicta enim id quasi, necessitatibus aspernatur non et dignissimos unde obcaecati officiis voluptatibus consequatur, ipsam ullam. Modi atque id necessitatibus natus, magnam molestiae, suscipit consequatur alias pariatur corrupti eligendi minima ex harum placeat nemo. Ratione, dicta quidem, ut hic neque culpa sed, aut et temporibus ipsam consequatur explicabo excepturi nihil amet eius consectetur voluptatem autem unde non. Illo, quaerat voluptas?",
+      "image": "https://home-market.com/upload/iblock/b01/b015088b96c4679398f61b1d3200fdcc.jpg",
+      "price": 238,
+      "id": 10
+    },
+    {
+      "title": "Филе индейки",
+      "category": "bird",
+      "catalog": "meat-bird",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic exercitationem dicta enim id quasi, necessitatibus aspernatur non et dignissimos unde obcaecati officiis voluptatibus consequatur, ipsam ullam. Modi atque id necessitatibus natus, magnam molestiae, suscipit consequatur alias pariatur corrupti eligendi minima ex harum placeat nemo. Ratione, dicta quidem, ut hic neque culpa sed, aut et temporibus ipsam consequatur explicabo excepturi nihil amet eius consectetur voluptatem autem unde non. Illo, quaerat voluptas?",
+      "image": "https://home-market.com/upload/iblock/492/492da46629beb1770df02284234eb099.jpg",
+      "price": 346,
+      "id": 11
+    },
+    {
+      "title": "Куриное филе",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic exercitationem dicta enim id quasi, necessitatibus aspernatur non et dignissimos unde obcaecati officiis voluptatibus consequatur, ipsam ullam. Modi atque id necessitatibus natus, magnam molestiae, suscipit consequatur alias pariatur corrupti eligendi minima ex harum placeat nemo. Ratione, dicta quidem, ut hic neque culpa sed, aut et temporibus ipsam consequatur explicabo excepturi nihil amet eius consectetur voluptatem autem unde non. Illo, quaerat voluptas?",
+      "category": "bird",
+      "catalog": "meat-bird",
+      "image": "https://home-market.com/upload/iblock/092/092c9a801fd1f92cddd3605812724b79.jpg",
+      "price": 459,
+      "id": 12
+    },
+    {
+      "title": "Баклажаны",
+      "category": "vegetables",
+      "catalog": "fruits-vegetables",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic exercitationem dicta enim id quasi, necessitatibus aspernatur non et dignissimos unde obcaecati officiis voluptatibus consequatur, ipsam ullam. Modi atque id necessitatibus natus, magnam molestiae, suscipit consequatur alias pariatur corrupti eligendi minima ex harum placeat nemo. Ratione, dicta quidem, ut hic neque culpa sed, aut et temporibus ipsam consequatur explicabo excepturi nihil amet eius consectetur voluptatem autem unde non. Illo, quaerat voluptas?",
+      "image": "https://home-market.com/upload/iblock/1af/1af6e9094eda8bee725857b7eab9cb86.jpg",
+      "price": 311,
+      "id": 13
+    },
+    {
+      "title": "Картофель белый",
+      "category": "vegetables",
+      "catalog": "fruits-vegetables",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic exercitationem dicta enim id quasi, necessitatibus aspernatur non et dignissimos unde obcaecati officiis voluptatibus consequatur, ipsam ullam. Modi atque id necessitatibus natus, magnam molestiae, suscipit consequatur alias pariatur corrupti eligendi minima ex harum placeat nemo. Ratione, dicta quidem, ut hic neque culpa sed, aut et temporibus ipsam consequatur explicabo excepturi nihil amet eius consectetur voluptatem autem unde non. Illo, quaerat voluptas?",
+      "image": "https://home-market.com/upload/iblock/270/270e7e281a8ec08ad7713798b5b6e78a.jpg",
+      "price": 28,
+      "id": 14
+    },
+    {
+      "title": "Помидоры",
+      "category": "vegetables",
+      "catalog": "fruits-vegetables",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic exercitationem dicta enim id quasi, necessitatibus aspernatur non et dignissimos unde obcaecati officiis voluptatibus consequatur, ipsam ullam. Modi atque id necessitatibus natus, magnam molestiae, suscipit consequatur alias pariatur corrupti eligendi minima ex harum placeat nemo. Ratione, dicta quidem, ut hic neque culpa sed, aut et temporibus ipsam consequatur explicabo excepturi nihil amet eius consectetur voluptatem autem unde non. Illo, quaerat voluptas?",
+      "image": "https://home-market.com/upload/iblock/3e0/3e0453ccd1f0e97bdf1ccded7f6e6919.jpg",
+      "price": 157,
+      "id": 15
+    },
+    {
+      "title": "Лук репчатый",
+      "category": "vegetables",
+      "catalog": "fruits-vegetables",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic exercitationem dicta enim id quasi, necessitatibus aspernatur non et dignissimos unde obcaecati officiis voluptatibus consequatur, ipsam ullam. Modi atque id necessitatibus natus, magnam molestiae, suscipit consequatur alias pariatur corrupti eligendi minima ex harum placeat nemo. Ratione, dicta quidem, ut hic neque culpa sed, aut et temporibus ipsam consequatur explicabo excepturi nihil amet eius consectetur voluptatem autem unde non. Illo, quaerat voluptas?",
+      "image": "https://home-market.com/upload/iblock/f1b/f1b81c55c94c6a683ad1a84c457a5e35.jpg",
+      "price": 41,
+      "id": 16
+    },
+    {
+      "title": "Морковь",
+      "category": "vegetables",
+      "catalog": "fruits-vegetables",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic exercitationem dicta enim id quasi, necessitatibus aspernatur non et dignissimos unde obcaecati officiis voluptatibus consequatur, ipsam ullam. Modi atque id necessitatibus natus, magnam molestiae, suscipit consequatur alias pariatur corrupti eligendi minima ex harum placeat nemo. Ratione, dicta quidem, ut hic neque culpa sed, aut et temporibus ipsam consequatur explicabo excepturi nihil amet eius consectetur voluptatem autem unde non. Illo, quaerat voluptas?",
+      "image": "https://home-market.com/upload/iblock/74b/74b58cb75330d237e9c2657fccccec08.jpg",
+      "price": 25,
+      "id": 17
+    },
+    {
+      "title": "Огурцы",
+      "category": "vegetables",
+      "catalog": "fruits-vegetables",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic exercitationem dicta enim id quasi, necessitatibus aspernatur non et dignissimos unde obcaecati officiis voluptatibus consequatur, ipsam ullam. Modi atque id necessitatibus natus, magnam molestiae, suscipit consequatur alias pariatur corrupti eligendi minima ex harum placeat nemo. Ratione, dicta quidem, ut hic neque culpa sed, aut et temporibus ipsam consequatur explicabo excepturi nihil amet eius consectetur voluptatem autem unde non. Illo, quaerat voluptas?",
+      "image": "https://home-market.com/upload/iblock/8f1/8f14b8eeac5e643453c08236a2abfc99.jpg",
+      "price": 208,
+      "id": 18
+    }
+  ]
+}
